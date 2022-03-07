@@ -1,0 +1,27 @@
+main {
+    max-width: 40rem;
+  }
+
+
+
+form {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    background-color:antiquewhite(240, 187, 72);
+    text-align: left;
+  }
+
+  .form ,input, label  {
+  display: block;
+  width: 100%;
+}
+
+button {
+    cursor: pointer;
+    padding: 0.5rem 1.5rem;
+    background-color:rgb(195, 48, 48);
+    border-radius: 4px;
+    color: white;
+    border: 1px solid rgb(195, 48, 48);
+  }
+  
